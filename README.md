@@ -1,1 +1,1 @@
-# javaScript_operators
+# javaScript_practice
